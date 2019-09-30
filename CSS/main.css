@@ -21,7 +21,6 @@ figcaption {
 }
 
 nav {
-
   font-family: 'Patua One', sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
@@ -37,11 +36,10 @@ nav a {
 }
 
 nav a:hover {
-
   color: #b42885;
   text-decoration: underline;
 }
-.intro {
 
+.intro {
   font-size: 1rem;
 }
